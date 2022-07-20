@@ -14,11 +14,11 @@ The app fetches data by calling apis,which then performs the logic and returns t
 ## Use of Material UI
 ## Use of React Routes
 
-A user can Login or creat a new acoount as seller or buyer with login and register page.
+A user can Login or creat a new account as seller or buyer with login and register page.
 User have to give credentials according to the validations.
 
 Once logged in, they can see the books on the home screen. 
-They can search for prefferd book from search bar or global search.
+They can search for preferred book from search bar or global search.
 User can also navigate through buttons in the header.
 One can update their profile.
 One cam also add,delete or edit information of books and categories according to their their role. (admin | buyer | seller)
